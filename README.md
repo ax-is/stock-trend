@@ -24,8 +24,8 @@ Max: $172.94
 ```
 
 **Plot:**  
-![Stock Trend](![image](https://github.com/user-attachments/assets/a8e1c870-6d5d-49df-9c4c-5814b67057ab)
-)  
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/e95f27e5-3f36-4efc-b141-39da598a65f9" />
+
 
 ---
 
