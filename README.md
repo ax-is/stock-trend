@@ -26,6 +26,8 @@ Max: $172.94
 **Plot:**  
 <img width="616" alt="image" src="https://github.com/user-attachments/assets/e95f27e5-3f36-4efc-b141-39da598a65f9" />
 
+**Tableau Visualization:**
+![Screenshot 2025-02-25 202323](https://github.com/user-attachments/assets/dd0df938-5472-472e-8a15-cf3efc2310ed)
 
 ---
 
